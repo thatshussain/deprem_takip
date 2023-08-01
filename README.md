@@ -1,0 +1,1 @@
+# deprem_takip
